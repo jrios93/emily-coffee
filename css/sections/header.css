@@ -1,0 +1,55 @@
+header {
+  color: #fff;
+}
+
+.header__nav {
+  display: flex;
+  overflow: hidden;
+  padding: 12px;
+}
+
+.header__logo {
+  padding: 20px;
+}
+
+.header__logo h4 {
+  padding-left: 30px;
+  font-weight: 700;
+  font-size: 35px;
+  font-family: var(--clicker-display);
+  opacity: 0.8;
+}
+
+.header__menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 64px;
+}
+
+.header__playmusic {
+  display: flex;
+  padding-right: 36px;
+  flex-wrap: wrap;
+  gap: 36px;
+}
+
+/* .header__btn-signin {
+  border: none;
+  outline: none;
+  background: transparent;
+
+  font-size: 16px;
+  color: #fff;
+  line-height: 19px;
+}
+
+.header__btn-signup {
+  padding: 15px;
+  border-radius: 36px;
+  min-width: 20px;
+  outline: none;
+  border: none;
+  background-color: var(--primary-color);
+  color: var(--title-color);
+} */

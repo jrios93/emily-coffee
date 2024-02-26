@@ -1,0 +1,22 @@
+.about-us {
+  background-color: var(--background-section);
+  padding: 64px;
+}
+
+.about-us h4 {
+  color: var(--title-color);
+  font-size: 54px;
+  text-align: center;
+}
+.about-us p {
+  color: var(--text-color);
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.about-us h6 {
+  color: var(--title-color);
+  font-size: 30px;
+  text-align: center;
+}
