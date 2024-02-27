@@ -7,6 +7,8 @@
 @import url('/css/sections/section.css');
 @import url('/css/sections/menu.css');
 @import url('/css/sections/about.css');
+@import url('/css/sections/moreInformation.css');
+@import url('/css/sections/customers.css');
 
 :root {
   --playfair-display: 'Playfair Display', serif;
