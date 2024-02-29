@@ -15,10 +15,9 @@ header {
 
 .header__logo h4 {
   padding-left: 30px;
-  font-weight: 700;
+  font-weight: normal;
   font-size: 35px;
   font-family: var(--clicker-display);
-  opacity: 0.8;
 }
 
 .header__menu {
